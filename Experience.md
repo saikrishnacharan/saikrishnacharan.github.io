@@ -10,6 +10,6 @@
 <!---### <span style="color:red;">August 2019 -May 2020</span>--->
 ---
 ## Teaching Assistant at IIIT-Hyderabad
-### Courses: Signal Processing and Communication Theory
+### Courses Signal Processing and Communication Theory
 * Handled tutorials and doubt clearing sessions for a class of **50+** undergrads. Duties also entailed providing the course instructor a timely feedback and assistance in development of assignments,quizzes and assessment of the course.
 ---
