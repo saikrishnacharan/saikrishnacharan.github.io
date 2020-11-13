@@ -2,22 +2,9 @@
 
 ---
 
-[Education](/Education)
+I am a 4th year ECE undergraduate student at IIIT Hyderabad. I work at SPCRC lab under Dr. Sachin Chaudari. My research Interests are Beamforming in millimeter wave technology, Machine Learning for Wireless Communication, DoA Estimation, Spectrum Sensing in Cognitive Radio, 3GPP Standards for NR. I have significant experience coding in Python(Scipy,Keras,Pandas), MATLAB, C++. 
 
 ---
-
-### Publications
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-### Research Projects
-
-
 
 
 
