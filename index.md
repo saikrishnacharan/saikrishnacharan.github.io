@@ -10,5 +10,3 @@ I am a 4th year ECE undergraduate student at IIIT Hyderabad. I work at SPCRC lab
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
