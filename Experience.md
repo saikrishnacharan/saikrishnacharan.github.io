@@ -16,4 +16,3 @@
 * Handled tutorials and doubt clearing sessions for a class of **50+** undergrads. Duties also entailedproviding the course instructor a timely feedback and assistance in development of assignments,quizzes and assessment of the course.
 
 ---
-
