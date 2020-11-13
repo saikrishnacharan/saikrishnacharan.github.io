@@ -27,6 +27,7 @@
 ---
 * [Research Projects](/ResearchProjects)
 ---
+
 ---
 * [Course Projects](/CourseProjects)
 ---
