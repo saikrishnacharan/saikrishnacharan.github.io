@@ -1,8 +1,10 @@
 title: Sai Krishna Charan Dara # your name (or website title) here
 logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <a href="https://saikrishnacharan.github.io/Home">Home</a>
+  <br>
   <a href="https://saikrishnacharan.github.io/Education">Education</a>
-  <br><br>
+  <br>
   <a href="https://saikrishnacharan.github.io/Experience">Experience</a>
   <br><br>
   <a href="https://saikrishnacharan.github.io/Publication">Publications</a>
