@@ -1,4 +1,5 @@
 # <span style="color:Blue;">Experience</span>
+
 ---
 ## Undergraduate Researcher at Signal Processing and Communication Research Center (SPCRC)
 ### IIIT-Hyderabad (Mentored by Dr.Sachin Chaudhari)
@@ -9,7 +10,7 @@
 
 ---
 ## Teaching Assistant at IIIT-Hyderabad
-### Courses Signal Processing and Communication Theory
+### Courses: - Signal Processing and Communication Theory
 * Handled tutorials and doubt clearing sessions for a class of **50+** undergrads. Duties also entailed providing the course instructor a timely feedback and assistance in development of assignments,quizzes and assessment of the course.
 ---
 
