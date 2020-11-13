@@ -9,10 +9,19 @@
 ---
 * [Education](/Education)
 ---
+---
+* [Experience](/Experience)
+---
+
 
 ---
-* [Projects](/MyProjects)
+* [Publications](/Publication)
+---
+
+
+---
+* [Research Projects](/ResearchProjects)
 ---
 ---
-* [Publications](/Publications)
+* [Course Projects](/CourseProjects)
 ---
