@@ -1,6 +1,5 @@
 # <span style="color:Blue;">Experience</span>
-
-
+---
 ## Undergraduate Researcher at Signal Processing and Communication Research Center (SPCRC)
 ### IIIT-Hyderabad (Mentored by Dr.Sachin Chaudhari)
 
