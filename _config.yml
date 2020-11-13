@@ -19,6 +19,12 @@ social-network-links:
   facebook: deanattali
   github: daattali
   twitter: daattali
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
+
 
   
   
