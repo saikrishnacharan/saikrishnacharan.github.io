@@ -1,17 +1,20 @@
 ---
-## B.Tech(Hons) in Electronics and Communication Engineering (ECE) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2017 - 2021
+## B.Tech(Hons) in Electronics and Communication Engineering (ECE)  
+### <span style="color:red; font-size:16px">2017-2021</span>
 ### International Institute of Information Technology, Hyderabad 
 #### CGPA : 9.39*/10  (For 6 semesters)
 --- 
 
 ---
-## Senior Secondary,Telangana Board  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2015 - 2017
+## Senior Secondary,Telangana Board 
+### <span style="color:red; font-size:16px">2015-2017</span>
 ### Naryana IIT Academy, Hyderabad
 #### Percentage: 98.3/100
 ---
 
 ---
-## Secondary,SSC   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2014 - 2015
+## Secondary,SSC   2014 - 2015
+### <span style="color:red; font-size:16px">2014-2015</span>
 ### CSR Aditya Concept School, Sathupally 
 #### GPA : 9.8/10
 ---
