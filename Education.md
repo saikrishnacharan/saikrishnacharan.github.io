@@ -1,3 +1,5 @@
+# <span style="color:Blue;">Education</span>
+
 ---
 ## B.Tech(Hons) in Electronics and Communication Engineering (ECE)  
 ### <span style="color:red; font-size:16px">2017-2021</span>
