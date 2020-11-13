@@ -3,8 +3,15 @@ logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <a href="https://saikrishnacharan.github.io/Education">Education</a>
   <br><br>
-  Second description 
+ <a href="https://saikrishnacharan.github.io/Experience">Experience</a>
   <br><br>
+ <a href="https://saikrishnacharan.github.io/Publication">Publications</a>
+  <br><br>
+  <a href="https://saikrishnacharan.github.io/ResearchProjects">ResearchProjects</a>
+  <br><br>
+  <a href="https://saikrishnacharan.github.io/CourseProjects">Course Projects</a>
+  <br><br>
+  
   <a href="https://www.linkedin.com/in/sai-krishna-charan-dara-63646a1a9/">View My LinkedIn Profile</a>
 
 
