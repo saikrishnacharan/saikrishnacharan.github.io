@@ -2,8 +2,6 @@
 
 ---
 
-### Education(/Education)
-
 [Education](/Education)
 
 ---
