@@ -8,7 +8,11 @@
 
 ---
 * [Education](/Education)
+---
 
-
-
+---
+* [Projects](/MyProjects)
+---
+---
+* [Publications](/Publications)
 ---
