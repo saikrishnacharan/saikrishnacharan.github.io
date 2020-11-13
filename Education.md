@@ -3,7 +3,7 @@
 ---
 ## B.Tech(Hons) in Electronics and Communication Engineering (ECE)  
 ### <span style="color:red; font-size:16px">2017-2021</span>
-### International Institute of Information Technology, Hyderabad  &nbsp;(`*IIIT-H*`)
+### International Institute of Information Technology, Hyderabad  &nbsp;(`IIIT-H`)
 #### CGPA : 9.39*/10  (For 6 semesters)
 --- 
 
