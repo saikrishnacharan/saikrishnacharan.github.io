@@ -10,7 +10,7 @@
 
 
 ___
-<span style="color:grey;"><ins>Computer Science Projects</ins></span>
+<span style="color:grey;">Computer Science Projects</span>
 =================
 
 Interactive C Shell
