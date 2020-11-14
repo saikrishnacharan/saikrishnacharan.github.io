@@ -1,4 +1,4 @@
-Course Projects
+<span style="color:Blue;">Course Projects</span>
 =========
 
 <!--ts-->
@@ -6,7 +6,7 @@ Course Projects
      * [Interactive C Shell](#interactive-c-shell)
 <!--te-->
 
-Computer Science Projects
+<span style="color:Blue;">Computer Science Projects</span>
 =================
 
 Interactive C Shell
