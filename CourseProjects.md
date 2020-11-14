@@ -8,7 +8,9 @@
      * [Style Transfer for Headshot Portraits](#style-transfer-for-headshot-portraits)
 <!--te-->
 
-<span style="color:grey;">Computer Science Projects</span>
+
+___
+<span style="color:grey;"><ins>Computer Science Projects</ins></span>
 =================
 
 Interactive C Shell
