@@ -6,7 +6,7 @@
      * [Interactive C Shell](#interactive-c-shell)
 <!--te-->
 
-<span style="color:Blue;">Computer Science Projects</span>
+<span style="color:grey;">Computer Science Projects</span>
 =================
 
 Interactive C Shell
