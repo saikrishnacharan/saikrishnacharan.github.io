@@ -9,9 +9,6 @@
 
 
 * Now let us consider a Uniform Linear Array 
-<img src="images/System_Model.pdf?raw=true"/>
-
-
 
 * Radiation Pattern by tweaking number of Antennas
 <img src="images/Antenna_Tweak.gif?raw=true"/>
