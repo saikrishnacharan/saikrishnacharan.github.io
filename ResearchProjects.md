@@ -32,6 +32,5 @@ ___
 ___
 #### Results Generated
 - Hat(Rx) is the conventional approach (MUSIC) and Cap(Rx) is the proposed method
-    <img src="images/MISC4.png?raw=true"/>
-    <img src="images/MISC5.png?raw=true"/>
+    <img src="images/MISC4.png?raw=true"/><img src="images/MISC5.png?raw=true"/>
 
