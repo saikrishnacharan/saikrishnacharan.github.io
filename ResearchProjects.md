@@ -13,3 +13,5 @@ ___
 <img src="images/RawPlot.png?raw=true"/>
 <img src="images/Corr_Map.png?raw=true"/>
 <img src="images/Pair_WisePlot.png?raw=true"/>
+
+### Fast Direction of Arrival Estimation of Multiple Targets using Deep Learning and Sparse Arrays
