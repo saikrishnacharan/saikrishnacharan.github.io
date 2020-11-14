@@ -13,7 +13,7 @@ Computer Science Projects
 =================
 
 Interactive C Shell
-=================
+-----
 
 * Developed a user-interactive shell in C, implementing the major features of GNU/Linux shell like piping, redirecting, handling background and foreground processes
 
