@@ -1,6 +1,6 @@
 # <span style="color:Blue;">Research Projects</span>
 ---
-### IoT for air pollution monitoring
+### 1. IoT for air pollution monitoring
 - Funded by Pernod Ricard India Foundation(PRIF)
 - Used Python Machine Learning Libraries are Seaborn and Pandas 
 - To implement and deploy an IoT network of air pollution monitoring nodes, constituting of various sensors to measure the air quality parameters such as Particulate matter (PM2.5,PM10), Carbon Monoxide(CO), NOX, temperature, humidity, SO2, NH3, which are required for calculating the AQI index according to the Indian AQI guidelines. 
@@ -14,8 +14,11 @@ ___
 <img src="images/Corr_Map.png?raw=true"/>
 <img src="images/Pair_WisePlot.png?raw=true"/>
 
-### Fast Direction of Arrival Estimation of Multiple Targets using Deep Learning and Sparse Arrays
+### 2. Fast Direction of Arrival Estimation of Multiple Targets using Deep Learning and Sparse Arrays
 - This work focuses on improving the Direction-of-Arrival (DoA) estimation of multiple targets/sources from a small number of snapshots. 
 - Estimation via the sample covariance matrix is known to perform poorly, since the true manifold structure is not revealed for a small number of samples. 
 - First, we explicitly model the sample covariance matrix that is used for the DoA estimation as a noisy version of the true one. Next, we employ a stacked denoising autoencoder (DAE) that predicts a statistically “richer” version of the sampled matrix that is subsequently used for the DoA estimation. Moreover, we consider a limited number of sensors (comparable to the number of sources) in a non-uniform linear configuration and introduce an end-to-end hybrid DoA prediction-estimation scheme.
 - The maximum interelement distance constraint (MISC) array, which exhibits several desirable characteristics.
+-  The MISC Array Structure is as below:
+    - <img src="images/MISC1.png?raw=true"/>
+- <img src="images/MISC2.png?raw=true"/>
