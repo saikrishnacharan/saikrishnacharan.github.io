@@ -14,6 +14,7 @@ ___
 <img src="images/Corr_Map.png?raw=true"/>
 <img src="images/Pair_WisePlot.png?raw=true"/>
 
+___
 ### 2. Fast Direction of Arrival Estimation of Multiple Targets using Deep Learning and Sparse Arrays
 - This work focuses on improving the Direction-of-Arrival (DoA) estimation of multiple targets/sources from a small number of snapshots. 
 - Estimation via the sample covariance matrix is known to perform poorly, since the true manifold structure is not revealed for a small number of samples. 
@@ -25,5 +26,9 @@ ___
     <img src="images/MISC2.png?raw=true"/>
 - The ANN comprises of fully connected layers, followed by a non-linear activation function except for the (last) output layer, which has no activation. The proposed neural network layout is given as:
     <img src="images/MISC3.png?raw=true"/>
-- 
+
+___
+#### Results Generated
+<img src="images/MISC4.png?raw=true"/>
+<img src="images/MISC5.png?raw=true"/>
 
