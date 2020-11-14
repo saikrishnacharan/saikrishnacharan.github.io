@@ -1,16 +1,8 @@
 # <span style="color:Blue;">Research Projects</span>
+---
 
-Table of contents
-=================
 
-<!--ts-->
-     [Table of contents](#table-of-contents)
-     [IoT-for-air-pollution-monitoring](#IoT)
-<!--te-->
-
-IoT-for-air-pollution-monitoring
-=========
-
+#### 1. IoT-for-air-pollution-monitoring
 - Funded by Pernod Ricard India Foundation(PRIF)
 - Used Python Machine Learning Libraries are Seaborn and Pandas 
 - To implement and deploy an IoT network of air pollution monitoring nodes, constituting of various sensors to measure the air quality parameters such as Particulate matter (PM2.5,PM10), Carbon Monoxide(CO), NOX, temperature, humidity, SO2, NH3, which are required for calculating the AQI index according to the Indian AQI guidelines. 
