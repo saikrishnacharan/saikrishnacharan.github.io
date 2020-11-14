@@ -19,3 +19,5 @@
 
 * Radition Pattern by tweaking d/lamda
 <img src="images/Ratio_Tweak.gif?raw=true"/>
+
+[<span style="color:Green;">Slides on Basic Beamforming</span>](/pdf/Beamforming_Slides_New.pdf)
