@@ -3,12 +3,14 @@ Course Projects
 Table of contents
 =================
 <!--ts-->
-   * [Course Projects](#course-projects)
-   * [Table of contents](#table-of-contents)
    * [Computer Science Projects](#computer-science-projects)
+     * [Interactive C Shell](#interactive-c-shell)
 <!--te-->
 
 Computer Science Projects
+=================
+
+Interactive C Shell
 =================
 
 
