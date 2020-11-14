@@ -4,6 +4,7 @@
 <!--ts-->
    * [Computer Science Projects](#computer-science-projects)
      * [Interactive C Shell](#interactive-c-shell)
+     * [File Sharing Protocol between client and server](#file-sharing-protocol-between-client-and-server)
 <!--te-->
 
 <span style="color:grey;">Computer Science Projects</span>
