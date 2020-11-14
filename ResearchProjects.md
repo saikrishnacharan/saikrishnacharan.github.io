@@ -20,5 +20,9 @@ ___
 - First, we explicitly model the sample covariance matrix that is used for the DoA estimation as a noisy version of the true one. Next, we employ a stacked denoising autoencoder (DAE) that predicts a statistically “richer” version of the sampled matrix that is subsequently used for the DoA estimation. Moreover, we consider a limited number of sensors (comparable to the number of sources) in a non-uniform linear configuration and introduce an end-to-end hybrid DoA prediction-estimation scheme.
 - The maximum interelement distance constraint (MISC) array, which exhibits several desirable characteristics.
 -  The MISC Array Structure is as below:
-    - <img src="images/MISC1.png?raw=true"/>
-- <img src="images/MISC2.png?raw=true"/>
+    <img src="images/MISC1.png?raw=true"/>
+- Proposed fast covariance matrix prediction scheme for DoA estimation.
+<img src="images/MISC2.png?raw=true"/>
+- The ANN comprises of fully connected layers, followed by a non-linear activation function except for the (last) output layer, which has no activation. The proposed neural network layout is given as:
+<img src="images/MISC3.png?raw=true"/>
+
