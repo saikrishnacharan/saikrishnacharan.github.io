@@ -5,7 +5,7 @@
    * [Computer Science Projects](#computer-science-projects)
      * [Interactive C Shell](#interactive-c-shell)
      * [File Sharing Protocol between client and server](#file-sharing-protocol-between-client-and-server)
-     * [Style Transfer for Headshot Portraits](#style-tranfer-for-headshot-potraits)
+     * [Style Transfer for Headshot Portraits](#style-transfer-for-headshot-portraits)
 <!--te-->
 
 <span style="color:grey;">Computer Science Projects</span>
