@@ -22,7 +22,8 @@ ___
 -  The MISC Array Structure is as below:
     <img src="images/MISC1.png?raw=true"/>
 - Proposed fast covariance matrix prediction scheme for DoA estimation.
-<img src="images/MISC2.png?raw=true"/>
+    <img src="images/MISC2.png?raw=true"/>
 - The ANN comprises of fully connected layers, followed by a non-linear activation function except for the (last) output layer, which has no activation. The proposed neural network layout is given as:
-<img src="images/MISC3.png?raw=true"/>
+    <img src="images/MISC3.png?raw=true"/>
+- 
 
