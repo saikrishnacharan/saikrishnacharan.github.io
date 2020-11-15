@@ -7,6 +7,7 @@
      * [File Sharing Protocol between client and server](#file-sharing-protocol-between-client-and-server)
      * [Style Transfer for Headshot Portraits](#style-transfer-for-headshot-portraits)
      * [Face classification](#face-classification)
+   * [Core ECE Projects](#core-ece-projects)
 <!--te-->
 
 
@@ -42,5 +43,7 @@ Face Classification
 * Performed data reduction techniques like K-PCA, LDA and build classifers using Multi Layer Perceptron(MLP) and Support Vector Machines(SVM) on popular datasets for distinguishing image classes.
   - [Link to project details](https://github.com/saikrishnacharan/Image-Classification)
 
+<span style="color:grey;">Core ECE Projects</span>
+===========
 
 
