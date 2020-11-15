@@ -6,7 +6,7 @@
      * [Interactive C Shell](#interactive-c-shell)
      * [File Sharing Protocol between client and server](#file-sharing-protocol-between-client-and-server)
      * [Style Transfer for Headshot Portraits](#style-transfer-for-headshot-portraits)
-     * [Face classification](face-classification)
+     * [Face classification](#face-classification)
 <!--te-->
 
 
