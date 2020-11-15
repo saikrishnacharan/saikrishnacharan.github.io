@@ -6,6 +6,7 @@
      * [Interactive C Shell](#interactive-c-shell)
      * [File Sharing Protocol between client and server](#file-sharing-protocol-between-client-and-server)
      * [Style Transfer for Headshot Portraits](#style-transfer-for-headshot-portraits)
+     * [Face classification](face-classification)
 <!--te-->
 
 
@@ -32,5 +33,13 @@ Style Transfer for Headshot Portraits
 * Our proposed method output looks like:- 
 
   <img src="images/Headshot.png?raw=true"/>
+  
+  
+Face Classification 
+-----
+
+*  Performed data reduction techniques like K-PCA, LDA and build classifers using Multi Layer Perceptron(MLP) and Support Vector Machines(SVM) on popular datasets for distinguishing image classes.
+
+
 
 
