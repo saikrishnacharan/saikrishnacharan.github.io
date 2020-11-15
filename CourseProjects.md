@@ -24,7 +24,7 @@ File Sharing Protocol between client and server
 -----
 - <span style="color:green;">Course: -</span> *Communication Networks*
 * File sharing protocol is created between client and server using socket programming which had functionalities like Indexed searching, File Hashing (using MD5 checksum), File transfer (UDP and TCP) and caching.
-[Link to project details](https://github.com/saikrishnacharan/File-Transfer-Protocal-between-client-and-server)
+  - [Link to project details](https://github.com/saikrishnacharan/File-Transfer-Protocal-between-client-and-server)
 
 Style Transfer for Headshot Portraits
 -----
@@ -40,7 +40,7 @@ Face Classification
 -----
 - <span style="color:green;">Course: -</span>  *Statistical Methods in AI*
 *  Performed data reduction techniques like K-PCA, LDA and build classifers using Multi Layer Perceptron(MLP) and Support Vector Machines(SVM) on popular datasets for distinguishing image classes.
-
+ - [Link to project details](https://github.com/saikrishnacharan/Image-Classification)
 
 
 
