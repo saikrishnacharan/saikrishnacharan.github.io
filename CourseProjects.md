@@ -24,6 +24,7 @@ File Sharing Protocol between client and server
 -----
 - <span style="color:green;">Course: -</span> *Communication Networks*
 * File sharing protocol is created between client and server using socket programming which had functionalities like Indexed searching, File Hashing (using MD5 checksum), File transfer (UDP and TCP) and caching.
+[Link to project details](https://github.com/saikrishnacharan/File-Transfer-Protocal-between-client-and-server)
 
 Style Transfer for Headshot Portraits
 -----
