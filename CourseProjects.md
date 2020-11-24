@@ -10,6 +10,7 @@
      * [Multi Dimensional Divide and Conquer](#multi-dimensional-divide-and-conquer)
    * [Core ECE Projects](#core-ece-projects)
       * [ALU Design using Full Swing GDI technique](#alu-design-using-full-swing-gdi-technique)
+      * [OFDM and OFDMA](#ofdm-and-ofdma)
 <!--te-->
 
 
@@ -62,3 +63,7 @@ ALU-Design-using-Full-Swing-GDI-technique
 * Desinged a 4-bit Arithmetic Logical Unit in LTSpice using Full Swing GDI technique with optimized Area, Speed and Transistor count.
 * Also talked about various logic design techniques and we justify why GDI (Gate Diffusion Input) technique is the best compared to others. 
   - [Link to project details](https://github.com/saikrishnacharan/ALU-Design-using-Full-Swing-GDI-technique)
+
+OFDM and OFDMA
+-----
+* End to end modelling of OFDM and OFDMA is studied and compared with other existed multiplexing and multiple access schemes
