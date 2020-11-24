@@ -77,4 +77,4 @@ Adaptive-Modulation Applications
 * Studied different adaptive modulation techniques for various scenarios and analyzed how BER and average spectral efficiency improve with adaption.
 * Also analyzed Varialbe Rate - Variable Power MQAM, Adaptive techniques in Fast and Slow Fading, Use of Adaptive techniques for Coding Issues and Capacity and discussed present case scenario and technology (5G) where adaptive technquies are used.
 * Various simulations are done using MATLAB. 
- - [Link to project details](https://github.com/saikrishnacharan/Adaptive-Modulation)
+  - [Link to project details](https://github.com/saikrishnacharan/Adaptive-Modulation)
