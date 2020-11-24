@@ -50,6 +50,7 @@ Multi Dimensional Divide and Conquer
 -----
 - <span style="color:green;">Course: -</span>  *Operating Systems*
 * Used this paradigm to solve domination and closest point problems in k-dimensional space and performed complexity analysis.
+* Algorithms analyzed are All-points ECDF problem, ECDF Searching Problem, Maxima Finding, Maxima Searching, Range Searching, Fixed-Radius Near Neighbors, Nearest Neighbours.
   - [Link to project details](https://github.com/saikrishnacharan/Multi-Dimensional-Divide-and-Conquer)
 
 <span style="color:grey;">Core ECE Projects</span>
