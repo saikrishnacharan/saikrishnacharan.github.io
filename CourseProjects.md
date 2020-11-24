@@ -7,6 +7,7 @@
      * [File Sharing Protocol between client and server](#file-sharing-protocol-between-client-and-server)
      * [Style Transfer for Headshot Portraits](#style-transfer-for-headshot-portraits)
      * [Face classification](#face-classification)
+     * [Multi Dimensional Divide and Conquer](#multi-dimensional-divide-and-conquer)
    * [Core ECE Projects](#core-ece-projects)
 <!--te-->
 
@@ -44,6 +45,12 @@ Face Classification
 - <span style="color:green;">Course: -</span>  *Statistical Methods in AI*
 * Performed data reduction techniques like K-PCA, LDA and build classifers using Multi Layer Perceptron(MLP) and Support Vector Machines(SVM) on popular datasets for distinguishing image classes.
   - [Link to project details](https://github.com/saikrishnacharan/Image-Classification)
+
+Multi Dimensional Divide and Conquer
+-----
+- <span style="color:green;">Course: -</span>  *Operating Systems*
+* Used this paradigm to solve domination and closest point problems in k-dimensional space and performed complexity analysis.
+  - [Link to project details](https://github.com/saikrishnacharan/Multi-Dimensional-Divide-and-Conquer)
 
 <span style="color:grey;">Core ECE Projects</span>
 ===========
