@@ -68,10 +68,12 @@ ALU-Design-using-Full-Swing-GDI-technique
 
 OFDM and OFDMA
 -----
+- <span style="color:green;">Course: -</span>  *Communication Networks*
 * End to end modelling of OFDM and OFDMA is studied and compared with other existed multiplexing and multiple access schemes
 
 Adaptive-Modulation Applications
 -----
+- <span style="color:green;">Course: -</span>  *Wireless Communications*
 * Studied different adaptive modulation techniques for various scenarios and analyzed how BER and average spectral efficiency improve with adaption.
 * Various simulations are done using MATLAB. 
  - [Link to project details](https://github.com/saikrishnacharan/Adaptive-Modulation)
