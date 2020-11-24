@@ -20,6 +20,7 @@ Interactive C Shell
 -----
 - <span style="color:green;">Course: - </span> *Operating Systems*
 * Developed a user-interactive shell in C, implementing the major features of GNU/Linux shell like piping, redirecting, handling background and foreground processes
+  - [Link to project details](https://github.com/saikrishnacharan/Interactive-Shell)
 
 File Sharing Protocol between client and server
 -----
