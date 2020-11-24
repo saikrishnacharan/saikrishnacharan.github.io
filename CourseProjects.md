@@ -33,6 +33,7 @@ Style Transfer for Headshot Portraits
 - <span style="color:green;">Course: - </span>*Digital Image Processing*
 * Headshot portraits are a popular subject in photography but to achieve a compelling visual style requires advanced skills that a casual photographer will not have. 
 * Presented a technique to transfer the style of an example head-shot photo onto a new one. This can allow one to easily reproduce the look of renowned artists. At the core of our approach is a new multiscale technique to robustly transfer the local statistics of an example portrait onto a new one. This technique matches properties such as the local contrast and the overall lighting direction while being tolerant to the unavoidable differences between the faces of two different people. 
+  - [Link to project details](https://github.com/saikrishnacharan/Style-Transfer-for-Headshot-Potrait)
 * Our proposed method output looks like:- 
 
   <img src="images/Headshot.png?raw=true"/>
