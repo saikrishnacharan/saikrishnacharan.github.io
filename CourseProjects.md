@@ -60,6 +60,7 @@ Multi Dimensional Divide and Conquer
 
 ALU-Design-using-Full-Swing-GDI-technique
 -----
+- <span style="color:green;">Course: -</span>  *Digital VLSI Design*
 * Desinged a 4-bit Arithmetic Logical Unit in LTSpice using Full Swing GDI technique with optimized Area, Speed and Transistor count.
 * Also talked about various logic design techniques and we justify why GDI (Gate Diffusion Input) technique is the best compared to others. 
   - [Link to project details](https://github.com/saikrishnacharan/ALU-Design-using-Full-Swing-GDI-technique)
