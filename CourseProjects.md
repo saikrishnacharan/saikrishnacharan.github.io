@@ -11,6 +11,7 @@
    * [Core ECE Projects](#core-ece-projects)
       * [ALU Design using Full Swing GDI technique](#alu-design-using-full-swing-gdi-technique)
       * [OFDM and OFDMA](#ofdm-and-ofdma)
+      * [Adaptive-Modulation Applications](#adaptive-modulation-applications)
 <!--te-->
 
 
@@ -68,3 +69,9 @@ ALU-Design-using-Full-Swing-GDI-technique
 OFDM and OFDMA
 -----
 * End to end modelling of OFDM and OFDMA is studied and compared with other existed multiplexing and multiple access schemes
+
+Adaptive-Modulation Applications
+-----
+* Studied different adaptive modulation techniques for various scenarios and analyzed how BER and average spectral efficiency improve with adaption.
+* Various simulations are done using MATLAB. 
+ - [Link to project details](https://github.com/saikrishnacharan/Adaptive-Modulation)
