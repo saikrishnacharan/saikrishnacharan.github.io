@@ -80,7 +80,8 @@ Adaptive Modulation Applications
 * Also analyzed Varialbe Rate - Variable Power MQAM, Adaptive techniques in Fast and Slow Fading, Use of Adaptive techniques for Coding Issues and Capacity and discussed present case scenario and technology (5G) where adaptive technquies are used.
 * Various simulations are done using MATLAB. 
   - [Link to project details](https://github.com/saikrishnacharan/Adaptive-Modulation)
-  
+ 
+ 
  Wavelet based denoising of ECG Signal
  -----
  - <span style="color:green;">Course: -</span>  *Digital Signal Processing*
@@ -91,4 +92,4 @@ Adaptive Modulation Applications
     <img src="images/DSP_Wavlet_based_denoising.png?raw=true"/>
 
   
-f
+
