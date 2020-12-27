@@ -13,6 +13,7 @@
       * [OFDM and OFDMA](#ofdm-and-ofdma)
       * [Adaptive Modulation Applications](#adaptive-modulation-applications)
       * [Wavelet based denoising of ECG Signal](#wavelet-based-denoising-of-ecg-signal)
+      
 <!--te-->
 
 
@@ -88,7 +89,7 @@ Adaptive Modulation Applications
  * Detrended and then denoised the ECG signal using wavelet denoising technique making QRS complex more distinct and identified peaks and valleys of denoised ECG signal.
  * Our main aim of project is to remove those noises and detect QRS complex of ECG signal.
  * This project is a modified version of Pan-Tompkins algorithm which detects QRS complexes in ECG signals.
- - [Link to project details](https://github.com/saikrishnacharan/Wavlet-based-denoising-of-ECG-signal)
+   - [Link to project details](https://github.com/saikrishnacharan/Wavlet-based-denoising-of-ECG-signal)
 
  * Our proposed method output looks like:-
     <img src="images/DSP_Wavlet_based_denoising.png?raw=true"/>
