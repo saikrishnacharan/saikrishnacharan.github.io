@@ -85,4 +85,9 @@ Adaptive-Modulation Applications
  ------
  - <span style="color:green;">Course: -</span>  *Digital Signal Processing*
  * Detrended and then denoised the ECG signal using wavelet denoising technique making QRS complex more distinct and identified peaks and valleys of denoised ECG signal.
+ * Our main aim of project is to remove those noises and detect QRS complex of ECG signal.
+ * This project is a modified version of Pan-Tompkins algorithm which detects QRS complexes in ECG signals.
+ * Our proposed method output looks like:-
+    <img src="images/DSP_Wavlet_based_denoising.png?raw=true"/>
+
   
