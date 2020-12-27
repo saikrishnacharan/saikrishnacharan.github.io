@@ -11,7 +11,8 @@
    * [Core ECE Projects](#core-ece-projects)
       * [ALU Design using Full Swing GDI technique](#alu-design-using-full-swing-gdi-technique)
       * [OFDM and OFDMA](#ofdm-and-ofdma)
-      * [Adaptive-Modulation Applications](#adaptive-modulation-applications)
+      * [Adaptive Modulation Applications](#adaptive-modulation-applications)
+      * [Wavelet based denoising of ECG Signal](#Wavelet-based-denoising-of-ECG-Signal)
 <!--te-->
 
 
@@ -79,3 +80,9 @@ Adaptive-Modulation Applications
 * Also analyzed Varialbe Rate - Variable Power MQAM, Adaptive techniques in Fast and Slow Fading, Use of Adaptive techniques for Coding Issues and Capacity and discussed present case scenario and technology (5G) where adaptive technquies are used.
 * Various simulations are done using MATLAB. 
   - [Link to project details](https://github.com/saikrishnacharan/Adaptive-Modulation)
+  
+ Wavelet based denoising of ECG Signal
+ ------
+ - <span style="color:green;">Course: -</span>  *Digital Signal Processing*
+ * Detrended and then denoised the ECG signal using wavelet denoising technique making QRS complex more distinct and identified peaks and valleys of denoised ECG signal.
+  
