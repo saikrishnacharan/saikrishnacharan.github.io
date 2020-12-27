@@ -12,7 +12,7 @@
       * [ALU Design using Full Swing GDI technique](#alu-design-using-full-swing-gdi-technique)
       * [OFDM and OFDMA](#ofdm-and-ofdma)
       * [Adaptive Modulation Applications](#adaptive-modulation-applications)
-      * [Wavelet based denoising of ECG Signal](#Wavelet-based-denoising-of-ECG-Signal)
+      * [Wavelet based denoising of ECG Signal](#wavelet-based-denoising-of-ecg-signal)
 <!--te-->
 
 
@@ -73,7 +73,7 @@ OFDM and OFDMA
 * End to end modelling of OFDM and OFDMA is studied and compared with other existed multiplexing and multiple access schemes
   - [Report](/pdf/Communication_Networks_Project1_OFDM_OFDMA.pdf)  |  [Slides](/pdf/CN_Slides_OFDM.pdf)
   
-Adaptive-Modulation Applications
+Adaptive Modulation Applications
 -----
 - <span style="color:green;">Course: -</span>  *Wireless Communications*
 * Studied different adaptive modulation techniques for various scenarios and analyzed how BER and average spectral efficiency improve with adaption.
