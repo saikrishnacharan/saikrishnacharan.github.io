@@ -92,6 +92,7 @@ Adaptive Modulation Applications
    - [Link to project details](https://github.com/saikrishnacharan/Wavlet-based-denoising-of-ECG-signal)
 
  * Our proposed method output looks like:-
+ 
     <img src="images/DSP_Wavlet_based_denoising.png?raw=true"/>
 
   
