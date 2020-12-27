@@ -83,7 +83,7 @@ Adaptive Modulation Applications
   - [Link to project details](https://github.com/saikrishnacharan/Adaptive-Modulation)
  
  
- Wavelet based denoising of ECG Signal
+ Wavelet-based-denoising-of-ECG-Signal
  -----
  - <span style="color:green;">Course: -</span>  *Digital Signal Processing*
  * Detrended and then denoised the ECG signal using wavelet denoising technique making QRS complex more distinct and identified peaks and valleys of denoised ECG signal.
