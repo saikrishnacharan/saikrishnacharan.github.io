@@ -108,8 +108,9 @@ Wavelet based denoising of ECG Signal
 
 Insertion Sort on FPGA
 ------
+- <span style="color:green;">Course: -</span>  *Embedded Hardware Design*
 * Implemented accelerated Insertion sort on FPGA (Zedboard Zync-7000).
-* Included Parallelism and blocks like BRAM , FIFO.
+* Included Parallelism and blocks like BRAM , FIFO. Xilinx-Vivado is the software used.
 * Also analyzed power consumption and complexity of algorithm compared to normal processor.
   - [Link to project details](/pdf/EHD_project.pdf)
 
