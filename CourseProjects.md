@@ -16,6 +16,7 @@
       * [6T-SRAM Memory Array](#6t-sram-memory-array)
       * [Insertion Sort on FPGA](#insertion-sort-on-fpga)
       * [Square Wave Generator](#square-wave-generator)
+      * [Class-D Power Amplifier](#class-d-power-amplifier)
       
 <!--te-->
 
@@ -122,4 +123,9 @@ Square Wave Generator
 * Building blocks of design are Current Source, 2-Stage Amplifier (acts as comparator), D-FlipFlop and Buffer.
 * Above blocks are designed using Cadence-Virtuoso in Transistor level.
   - [Link to project details](/pdf/LEC_Project.pdf)
+
+Class-D Power Amplifier
+-----
+- <span style="color:green;">Course: -</span>  *Electronic Workshop*
+* Implemented Class D power amplifier with efficiency around 80-90% on breadboard.
 
