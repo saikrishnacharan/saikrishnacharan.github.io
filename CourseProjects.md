@@ -14,6 +14,7 @@
       * [Adaptive Modulation Applications](#adaptive-modulation-applications)
       * [Wavelet based denoising of ECG Signal](#wavelet-based-denoising-of-ecg-signal)
       * [6T-SRAM Memory Array](#6t-sram-memory-array)
+      * [Insertion Sort on FPGA](insertion-sort-on-fpga)
       
 <!--te-->
 
@@ -104,7 +105,10 @@ Wavelet based denoising of ECG Signal
     - [Decoder Design](/pdf/20171140_Decoder.pdf)
     - [Single SRAM Design](/pdf/20171140_SRAM.pdf)
     - [Array SRAM Design](/pdf/20171140_Array_SRAM.pdf)
-  
 
-  
+Insertion Sort on FPGA
+------
+* Implemented accelerated Insertion sort on FPGA (Zedboard Zync-7000).
+* Also analyzed power consumption and complexity of algorithm compared to normal processor.
+  - [Link to project details](/pdf/EHD_project.pdf)
 
