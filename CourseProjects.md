@@ -119,7 +119,7 @@ Square Wave Generator
 -----
 - <span style="color:green;">Course: -</span>  *Linear Electronic Circuits*
 * Implemented Transistor level Design of Square wave generator on Cadence with minimum power consumption and MOSFET’s being in subthreshold region of operation.
-* Building blocks of design are Current Sourece, 2-Stage Amplifier (acts as comparator), D-FlipFlop and Buffer.
+* Building blocks of design are Current Source, 2-Stage Amplifier (acts as comparator), D-FlipFlop and Buffer.
 * Above blocks are designed using Cadence-Virtuoso in Transistor level.
   - [Link to project details](/pdf/LEC_Project.pdf)
 
