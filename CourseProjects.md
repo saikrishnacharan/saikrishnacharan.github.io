@@ -98,7 +98,13 @@ Wavelet based denoising of ECG Signal
   6T-SRAM Memory Array
   -----
   - <span style="color:green;">Course: -</span>  *Digital VLSI Design*
-  * Modelled Parasitic capacitances and analysis of Noise Margin, Power, Delay, Rise Time and Fall Time is done.
+  * Modelled Parasitic capacitances and analysis of Noise Margin, Power, Delay, Rise Time and Fall Time is done. 
+  * Analysis is done using Cadence-Virtuoso
+  * Design Details 
+    - [Decoder Design](/pdf/20171140_Decoder.pdf)
+    - [Single SRAM Design](/pdf/20171140_SRAM.pdf)
+    - [Array SRAM Design](/pdf/20171140_Array_SRAM.pdf)
+  
 
   
 
