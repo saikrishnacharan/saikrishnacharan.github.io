@@ -119,5 +119,5 @@ Square Wave Generator
 -----
 - <span style="color:green;">Course: -</span>  *Linear Electronic Circuits*
 * Implemented Transistor level Design of Square wave generator on Cadence with minimum power consumption and MOSFET’s being in subthreshold region of operation.
-  -[Link to project details](/pdf/LEC_Project.pdf)
+  - [Link to project details](/pdf/LEC_Project.pdf)
 
