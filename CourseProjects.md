@@ -14,7 +14,7 @@
       * [Adaptive Modulation Applications](#adaptive-modulation-applications)
       * [Wavelet based denoising of ECG Signal](#wavelet-based-denoising-of-ecg-signal)
       * [6T-SRAM Memory Array](#6t-sram-memory-array)
-      * [Insertion Sort on FPGA](insertion-sort-on-fpga)
+      * [Insertion Sort on FPGA](#insertion-sort-on-fpga)
       
 <!--te-->
 
