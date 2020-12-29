@@ -13,6 +13,7 @@
       * [OFDM and OFDMA](#ofdm-and-ofdma)
       * [Adaptive Modulation Applications](#adaptive-modulation-applications)
       * [Wavelet based denoising of ECG Signal](#wavelet-based-denoising-of-ecg-signal)
+      * [6T-SRAM Memory Array](#6t-sram-memory-array)
       
 <!--te-->
 
@@ -93,6 +94,11 @@ Wavelet based denoising of ECG Signal
  * Our proposed method output looks like:-
  
     <img src="images/DSP_Wavlet_based_denoising.png?raw=true"/>
+    
+  6T-SRAM Memory Array
+  -----
+  - <span style="color:green;">Course: -</span>  *Digital VLSI Design*
+  * Modelled Parasitic capacitances and analysis of Noise Margin, Power, Delay, Rise Time and Fall Time is done.
 
   
 
