@@ -15,6 +15,7 @@
       * [Wavelet based denoising of ECG Signal](#wavelet-based-denoising-of-ecg-signal)
       * [6T-SRAM Memory Array](#6t-sram-memory-array)
       * [Insertion Sort on FPGA](#insertion-sort-on-fpga)
+      * [Square Wave Generator](#square-wave-generator)
       
 <!--te-->
 
@@ -113,4 +114,10 @@ Insertion Sort on FPGA
 * Included Parallelism and blocks like BRAM , FIFO. Xilinx-Vivado is the software used.
 * Also analyzed power consumption and complexity of algorithm compared to normal processor.
   - [Link to project details](/pdf/EHD_project.pdf)
+
+Square Wave Generator
+-----
+- <span style="color:green;">Course: -</span>  *Linear Electronic Circuits*
+* Implemented Transistor level Design of Square wave generator on Cadence with minimum power consumption and MOSFET’s being in subthreshold region of operation.
+  -[Link to project details](/pdf/LEC_Project.pdf)
 
