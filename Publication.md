@@ -4,7 +4,7 @@
 
 ### Abstract: -
 * In this paper, we propose spectrum sensing schemes for a secondary user (SU) with multiple antennas to detect a primary user (PU) transmission in a cognitive mmWave network. The channel model considered at mmWave carrier frequencies is the clustered Rician fading channel, which has few multipaths. For the considered scenario, we propose three beamformed energy detection (BFED) schemes where beamforming is done in the dominant direction of arrival (DoA)at the SU and then energy detection (ED) is applied. The three schemes differ in the amount of information assumed about the DoAs at the SU. The performance of these schemes has been compared with the traditional ED and maximal ratio combining (MRC) schemes for multiantenna systems. It is shown through simulations that the proposed BFED approaches provide significant performance gains over the ED and negligible loss as compared to the MRC, which makes an impractical assumption of the channel between the PU and the SU to be exactly known.
-
+#### Link to Paper: - [IEEE-Link](https://ieeexplore.ieee.org/abstract/document/9342783?casa_token=tWckYdTKtgUAAAAA:NPZy7HRaZ-BmAre9Zz6-7cOHFq7T3veCnYNhvtxLeHw4zJv1ow8a0UuEQbvTdGmDGs0SBiqtOE4j)
 ___
 
 - M. Madhuri Latha, Sai Krishna Charan Dara and Sachin Chaudhari, "Beamformed Energy Detection in the Presence of an Interferer for Cognitive mmWave Network", Submitted to *IEEE VTC Conference 2021* 
