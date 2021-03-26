@@ -133,5 +133,9 @@ Class-D Power Amplifier
    
 Neyman Pearson Detector for Variance Estimation
 ------
+- <span style="color:green;">Course: -</span>  *Multi Variate Analysis*
+* Used Neyman Pearson Detector for detection of Aircrafts using the variance of the signal received.
+  - [Link to project details](https://github.com/saikrishnacharan/Neyman-Pearson-Detector-for-Variance-Estimation)
+
 
  
