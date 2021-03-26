@@ -17,6 +17,7 @@
       * [Insertion Sort on FPGA](#insertion-sort-on-fpga)
       * [Square Wave Generator](#square-wave-generator)
       * [Class-D Power Amplifier](#class-d-power-amplifier)
+      * [Neyman Pearson Detector for Variance Estimation](#neyman-pearson-detector-for-variance-estimation)
       
 <!--te-->
 
@@ -129,3 +130,8 @@ Class-D Power Amplifier
 - <span style="color:green;">Course: -</span>  *Electronic Workshop*
 * Implemented Class D power amplifier with efficiency around 80-90% on breadboard.
    - [Link to project details](/pdf/EW_2_CLASSD.pdf)
+   
+Neyman Pearson Detector for Variance Estimation
+------
+
+ 
