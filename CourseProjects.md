@@ -10,6 +10,7 @@
      * [Multi Dimensional Divide and Conquer](#multi-dimensional-divide-and-conquer)
    * [Core ECE Projects](#core-ece-projects)
       * [ALU Design using Full Swing GDI technique](#alu-design-using-full-swing-gdi-technique)
+      * [Time Frequency Analysis of Non Stationary Electrocardiogram Signals Using Hilbert Huang Transform](#time-frequency-analysis-of-non-stationary-electrocardiogram-signals-using-hilbert-huang-transform)
       * [OFDM and OFDMA](#ofdm-and-ofdma)
       * [Adaptive Modulation Applications](#adaptive-modulation-applications)
       * [Wavelet based denoising of ECG Signal](#wavelet-based-denoising-of-ecg-signal)
@@ -87,6 +88,14 @@ Adaptive Modulation Applications
 * Various simulations are done using MATLAB. 
   - [Link to project details](https://github.com/saikrishnacharan/Adaptive-Modulation)
  
+Time Frequency Analysis of Non Stationary Electrocardiogram Signals Using Hilbert Huang Transform
+-----
+- <span style="color:green;">Course: -</span>  *Time Frequency Analysis*
+* TFAnalysis of ECG Signals using HHTransform and comparing our results with other transforms like STFT,Wavelet Transform and Pseudo Wigner Ville Distribution
+* Intrisic Mode Functions (IMF's) are generated using the algorithm EMD (Empirical mode decomposition).
+* Tweaked some parameters in HHT and analysed their effects
+* Various simulations are done using MATLAB.
+
 Wavelet based denoising of ECG Signal
 -----
  - <span style="color:green;">Course: -</span>  *Digital Signal Processing*
