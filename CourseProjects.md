@@ -95,6 +95,7 @@ Time Frequency Analysis of Non Stationary Electrocardiogram Signals Using Hilber
 * Intrisic Mode Functions (IMF's) are generated using the algorithm EMD (Empirical mode decomposition).
 * Tweaked some parameters in HHT and analysed their effects
 * Various simulations are done using MATLAB.
+    -  [Link to project details](https://github.com/saikrishnacharan/Time-Frequency-Analysis-of-Non-Stationary-Electrocardiogram-Signals-Using-Hilbert--Huang-Transform)
 
 Wavelet based denoising of ECG Signal
 -----
