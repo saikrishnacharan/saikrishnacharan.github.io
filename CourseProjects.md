@@ -57,6 +57,8 @@ Universal Style Transfer via Feature Transforms
 * Given a pair of examples the content and style image, universal style transfer aims to synthesize an image that preserves some notion of the content but carries characteristics of the style. The key challenge is how to extract effective representations of the style and then match it in the content image.
 * Objective is to develop a universal style transfer approach with a decent visual quality and efficiency.
 * Used VGG-19 as the feature extractor. Our algorithm pipeline is in 3 steps. 1) Reconstruction (Encoder and Decoder) to calculate weights. (Used Coco DataSet). 2) Whitening Coloring Transform 3) Multi Level Stylization.
+* Patch Transfer is also done as an additional study.
+   - [Link to project details](https://github.com/saikrishnacharan/Universal-Style-Transfer)
  
 
 
