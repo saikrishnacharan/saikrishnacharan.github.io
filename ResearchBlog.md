@@ -13,9 +13,14 @@
 * Radiation Pattern by tweaking number of Antennas
 <img src="images/Antenna_Tweak.gif?raw=true"/>
 
+* From the above graph, we can see that Antenna gain proportional to number of antennas. More the number of antennas, more the beamforming gain and less Half Power Band Width(HPBW).
 
 * Radition Pattern by tweaking d/lamda
 <img src="images/Ratio_Tweak.gif?raw=true"/>
+
+* From the above graph, we can see the ratio of 0.5 yields only one main lobe. Ratio of >0.5 creates significant side lobes resulting in power leakage in not desirable directions.
+
+
 
 [<span style="color:Green;">Slides on Basic Beamforming</span>](/pdf/Beamforming_Slides_New.pdf)
 
