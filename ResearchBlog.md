@@ -11,6 +11,7 @@
 * Now let us consider a Uniform Linear Array 
 
 ## Radiation Pattern by tweaking number of Antennas
+
 <img src="images/Antenna_Tweak.gif?raw=true"/>
 
 * From the above graph, we can see that Antenna gain proportional to number of antennas. More the number of antennas, more the beamforming gain and less Half Power Band Width(HPBW).
