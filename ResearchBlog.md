@@ -10,7 +10,7 @@
 
 * Now let us consider a Uniform Linear Array 
 
-* Radiation Pattern by tweaking number of Antennas
+## Radiation Pattern by tweaking number of Antennas
 <img src="images/Antenna_Tweak.gif?raw=true"/>
 
 * From the above graph, we can see that Antenna gain proportional to number of antennas. More the number of antennas, more the beamforming gain and less Half Power Band Width(HPBW).
@@ -21,7 +21,7 @@
 * From the above graph, we can see the ratio of 0.5 yields only one main lobe. Ratio of >0.5 creates significant side lobes resulting in power leakage in not desirable directions.
 
 
-
+### Additional Resources
 [<span style="color:Green;">Slides on Basic Beamforming</span>](/pdf/Beamforming_Slides_New.pdf)
 
 [<span style="color:Grey;">Code for above animation</span>](/Coding_Files/Radiation_Pattern_Antenna.ipynb)
