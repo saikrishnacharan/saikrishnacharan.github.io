@@ -90,7 +90,8 @@ OFDM and OFDMA
 -----
 - <span style="color:green;">Course: -</span>  *Communication Networks*
 * End to end modelling of OFDM and OFDMA is studied and compared with other existed multiplexing and multiple access schemes
-  - [Report](/pdf/Communication_Networks_Project1_OFDM_OFDMA.pdf)  |  [Slides](/pdf/CN_Slides_OFDM.pdf)
+  - [Report](/pdf/Communication_Networks_Project1_OFDM_OFDMA.pdf)  
+  - [Slides](/pdf/CN_Slides_OFDM.pdf)
   
 Adaptive Modulation Applications
 -----
